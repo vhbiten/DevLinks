@@ -92,7 +92,7 @@ body {
 
 }
 #profile img {
-    width: 112px;
+    width: 180px;
     display: block;
     margin: auto;
 }
@@ -146,8 +146,12 @@ ul li a:hover {
     background: var(--highlight-color);
     border-radius: 50%;
 }
+.wpp {
+    padding: 5px;
+}
 
 footer {
+    display: none;
     padding: 24px 0;
     text-align: center;
     font-size: 14px;
