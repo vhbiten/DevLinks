@@ -17,4 +17,4 @@ Esse perfil foi desenvolvido com as seguintes tecnologias:
 - Figma
 - Canva
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://vhbiten.github.io/DevLinks/)
