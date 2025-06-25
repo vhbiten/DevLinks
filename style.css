@@ -35,6 +35,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top center;
+    height: 100vh;
 }
 
 #switch {
@@ -155,4 +156,15 @@ footer {
     padding: 24px 0;
     text-align: center;
     font-size: 14px;
+}
+
+/* media queries*/
+@media (min-width: 700px) {
+    :root {
+        --bg-url: url(./images/bg-desktop.jpg);
+    }
+
+    .light {
+        --bg-url: url(./images/bg-desktop-light.jpg);
+    }
 }
